@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aml/static/css/main.83306c80.css",
+    "main.js": "/aml/static/js/main.c447b3fd.js",
+    "index.html": "/aml/index.html",
+    "main.83306c80.css.map": "/aml/static/css/main.83306c80.css.map",
+    "main.c447b3fd.js.map": "/aml/static/js/main.c447b3fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83306c80.css",
+    "static/js/main.c447b3fd.js"
+  ]
+}
